@@ -1,0 +1,27 @@
+ul.top-menu {
+    li {
+        a {
+            color: #ff9b1a;
+            font-weight: bold;
+            font-size: 15px;
+        }
+    }
+}
+.body-image {
+    background-image: url('../../assets/report-industry-bw1.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+}
+.source-content {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 8rem;
+}
+.body-content {
+    .production-title {
+        color: #ff9b1a;
+        font-family: Arial, Helvetica, sans-serif;
+        border-bottom: 2px solid;
+    }
+}
